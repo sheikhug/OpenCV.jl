@@ -4,5 +4,5 @@ version = "3.2.0"
 [deps]
 Cxx = "a0b5b9ef-44b7-5148-a2d1-f6db19f3c3d2"
 [compat]
-Cxx = "1.5"
+Cxx = "0.4.0"
 julia = "1.5.3"
