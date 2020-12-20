@@ -1,6 +1,8 @@
 name = "OpenCV"
-uuid = "7876af07-990d-54b4-ab0e-23690620f79a"
-version = "1.2.5"
+uuid = "7876af07-990d-54b4-ab0e-23690620f76c"
+version = "3.2.0"
+[deps]
+Cxx = "a0b5b9ef-44b7-5148-a2d1-f6db19f3c3d2"
 [compat]
+Cxx = "1.5"
 julia = "1.5.3"
-Cxx
